@@ -2,28 +2,81 @@
 
 ![banner that says Antón Rodríguez Yuste, Data Engineer, content creator and
 community organizer](https://raw.githubusercontent.com/antonmry/antonmry/master/github_header.png)
-I'm a Software Engineer focused on Data Pipelines (Spark) and Stream Processing
-(Kafka Streams, Flink). Nowadays I work for [Inditex] as Data Engineer. In the
-past, I worked as a specialist in Deployment Pipelines, API Management and
-Advanced Orchestration in distributed systems.
 
-I co-organize the Vigo and Coruña Java User Groups ([VigoJUG] & [CoruñaJUG]). I
-also like to speak at technical conferences and contribute to open source
-projects.
+I'm a Principal Software Engineer focused on **Event Streaming and Real-Time
+Processing**. I've experience working with different message brokers and event
+streaming platforms ([Apache Kafka], [Google Pub/Sub] and [Azure EventHub]) and
+real-time processing frameworks ([Kafka Streams], [Spark Structured Streaming],
+[Google Dataflow], [Azure Stream Analytics], etc.).
 
-## Find me around the web 🌎
+During my career, **I specialized in building internal SaaS** in big
+corporations to make complex technologies easily used and adopted by teams so
+they can build solutions to real business use cases. From the very beginning,
+I can help with governance, operation, performance, adoption, training and any
+task related to system administration or backend development.
 
-- Learning in public on [Twitch] or [my blog] ✍🏾
-- Tinkering with interactions on [Twitter] 🏓
-- Reading book on [Goodreads] 💼
-- Sharping my coding skills on [Exercism] 👨‍💻
+I have a strong sense of my goals as Principal Software Engineer which are
+very good summarized in [Some Thoughts on the Principal Role]:
 
-[Inditex]: https://github.com/Inditex
-[VigoJUG]: https://github.com/VigoJUG
-[CoruñaJUG]: https://github.com/CorunaJUG
+- **Help people get better at what they do**.
+- Be involved with architecture or other kinds of design, best practices,
+  CI/CD, testing, or whatever is necessary.
+- Make systems and global architectures technically better and more robust.
+- Be expandable. The whole team should be independent and continue improving
+  after I'm no longer with them.
+
+## Tech Community
+
+I also like to organize technology events and groups:
+
+- [VigoJUG] co-organizer of the Vigo Java User Group
+  since 2017.
+- [CoruñaJUG] co-organizer of the Coruña Java User
+  Group since 2018.
+- [LaretasGeek] is a virtual panel and podcast
+  about technology with focus on Java.
+
+Sometimes I speak at international [technology conferences] as Geecon, JBCNConf,
+Greach, SpringIO, CommitConf, TADSummit, AtlánticaConf, LicorcaConf, CoimbraJUG,
+PosadaDev, etc.
+
+I've received some awards during my career:
+
+* 2020: [Confluent Community Catalyst].
+* 2015: [TADHack Global Winner]
+* 2015: [Oracle ACE Associate]
+
+## Social profile
+
+- Sharing my learnings in [my blog]. If you want to follow it, the easiest way
+  is using [RSS] and your favourite app, as for example, [Feedly].
+- Tinkering with interactions on [Twitter].
+- Reading books on [Goodreads].
+- Sharping my coding skills on [Exercism].
+- Sharing open source pet projects and geek ideas in [GitHub].
+- My professional experience in [LinkedIn].
+
+[Some Thoughts on the Principal Role]: https://margint.blog/2020/10/07/some-thoughts-on-the-principal-role/
+[VigoJUG]: https://www.vigojug.org
+[CoruñaJUG]: https://www.corunajug.org
+[LaretasGeek]: https://twitter.com/laretasGeek
 [Twitter]: https://www.twitter.com/antonmry
 [Twitch]: https://www.twitch.com/antonmry
 [my blog]: https://www.galiglobal.com
 [Goodreads]: http://www.goodreads.com/antonmry
 [Exercism]: https://exercism.io/profiles/antonmry
-
+[RSS]: /feed.xml
+[feedly]: https://feedly.com/i/discover/sources/search/http%3A%2F%2Fwww.galiglobal.com%2Ffeed.xml
+[LinkedIn]: https://www.linkedin.com/in/antonmry/
+[GitHub]: https://github.com/antonmry
+[technology conferences]: /public-talks.html
+[Confluent Community Catalyst]: https://www.confluent.io/nominate/
+[TADHack Global Winner]: /blog/2015/We-are-TADHack-2015-winners.html
+[Oracle ACE Associate]: /blog/2015/The-Oracle-ACE-Associate-award.html
+[Apache Kafka]: https://kafka.apache.org/
+[Azure EventHub]: https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about
+[Google Pub/Sub]: https://cloud.google.com/pubsub/docs/overview
+[Kafka Streams]: https://kafka.apache.org/documentation/streams/
+[Spark Structured Streaming]: https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
+[Google Dataflow]: https://cloud.google.com/dataflow
+[Azure Stream Analytics]: https://azure.microsoft.com/en-us/services/stream-analytics/
