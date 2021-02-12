@@ -29,6 +29,9 @@ very good summarized in [Some Thoughts on the Principal Role]:
 
 I also like to organize technology events and groups:
 
+- [Streaming Annotated Newsletter]: receive the last news and interesting
+  articles about streaming platforms and processing frameworks each month in
+  your mailbox.
 - [VigoJUG] co-organizer of the Vigo Java User Group
   since 2017.
 - [CoruñaJUG] co-organizer of the Coruña Java User
@@ -80,3 +83,4 @@ I've received some awards during my career:
 [Spark Structured Streaming]: https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
 [Google Dataflow]: https://cloud.google.com/dataflow
 [Azure Stream Analytics]: https://azure.microsoft.com/en-us/services/stream-analytics/
+[Streaming Annotated Newsletter]: https://streamingannotated.substack.com/
