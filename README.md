@@ -1,65 +1,40 @@
-# Hi, I'm Antón
-
-![banner that says Antón Rodríguez Yuste, Data Engineer, content creator and
-community organizer](https://raw.githubusercontent.com/antonmry/antonmry/master/github_header.png)
-
-I'm a Principal Software Engineer focused on **Event Streaming and Real-Time
-Processing**. I've experience working with different message brokers and event
-streaming platforms ([Apache Kafka], [Google Pub/Sub] and [Azure EventHub]) and
-real-time processing frameworks ([Kafka Streams], [Spark Structured Streaming],
-[Google Dataflow], [Azure Stream Analytics], etc.).
-
-During my career, **I specialized in building internal SaaS** in big
-corporations to make complex technologies easily used and adopted by teams so
-they can build solutions to real business use cases. From the very beginning,
-I can help with governance, operation, performance, adoption, training and any
-task related to system administration or backend development.
-
-I have a strong sense of my goals as Principal Software Engineer which are
-very good summarized in [Some Thoughts on the Principal Role]:
-
-- **Help people get better at what they do**.
-- Be involved with architecture or other kinds of design, best practices,
-  CI/CD, testing, or whatever is necessary.
-- Make systems and global architectures technically better and more robust.
-- Be expandable. The whole team should be independent and continue improving
-  after I'm no longer with them.
+I have a passion for building high-throughput streaming systems and platforms
+that solve the challenges that come with them. I have a strong sense of my goals 
+as Principal Software Engineer, summarized in
+[My Thoughts on the Principal Role] article.
 
 ## Tech Community
 
-I also like to organize technology events and groups:
+I know I've been very lucky so I try to contribute back sharing my learnings in
+[my blog], speaking at local and international [technology conferences] and
+organizing technology events, groups and other activities:
 
-- [Streaming Annotated Newsletter]: receive the last news and interesting
-  articles about streaming platforms and processing frameworks each month in
-  your mailbox.
-- [VigoJUG] co-organizer of the Vigo Java User Group
-  since 2017.
-- [CoruñaJUG] co-organizer of the Coruña Java User
-  Group since 2018.
-- [LaretasGeek] is a virtual panel and podcast
-  about technology with focus on Java.
-
-Sometimes I speak at international [technology conferences] as Geecon, JBCNConf,
-Greach, SpringIO, CommitConf, TADSummit, AtlánticaConf, LicorcaConf, CoimbraJUG,
-PosadaDev, etc.
+- [VigoJUG] co-organizer of the Vigo Java User Group since 2017.
+- [CoruñaJUG] co-organizer of the Coruña Java User Group since 2018.
+- [LaretasGeek] is a virtual panel and podcast about technology with focus on
+  Java (discontinued).
+- [Streaming Annotated Newsletter]: the last news and interesting articles
+  about streaming platforms and processing frameworks each month in your
+  mailbox (discontinued).
 
 I've received some awards during my career:
 
+* 2022: [Java Champion].
+* 2021: [Google Developer Expert].
+* 2021: [RedHat Accelerator].
 * 2020: [Confluent Community Catalyst].
-* 2015: [TADHack Global Winner]
-* 2015: [Oracle ACE Associate]
+* 2015: [TADHack Global Winner].
+* 2015: [Oracle ACE Associate].
 
 ## Social profile
 
-- Sharing my learnings in [my blog]. If you want to follow it, the easiest way
-  is using [RSS] and your favourite app, as for example, [Feedly].
+- Sharing open source side projects and ideas in [GitHub].
 - Tinkering with interactions on [Twitter].
-- Reading books on [Goodreads].
-- Sharping my coding skills on [Exercism].
-- Sharing open source pet projects and geek ideas in [GitHub].
 - My professional experience in [LinkedIn].
+- Sharping my coding skills on [Exercism].
+- Reading books on [Goodreads].
 
-[Some Thoughts on the Principal Role]: https://margint.blog/2020/10/07/some-thoughts-on-the-principal-role/
+[My Thoughts on the Principal Role]: /blog/2021/20210313-The-principal-role.html
 [VigoJUG]: https://www.vigojug.org
 [CoruñaJUG]: https://www.corunajug.org
 [LaretasGeek]: https://twitter.com/laretasGeek
@@ -72,7 +47,7 @@ I've received some awards during my career:
 [feedly]: https://feedly.com/i/discover/sources/search/http%3A%2F%2Fwww.galiglobal.com%2Ffeed.xml
 [LinkedIn]: https://www.linkedin.com/in/antonmry/
 [GitHub]: https://github.com/antonmry
-[technology conferences]: /public-talks.html
+[technology conferences]: https://www.galiglobal.com/public-talks.html
 [Confluent Community Catalyst]: https://www.confluent.io/nominate/
 [TADHack Global Winner]: /blog/2015/We-are-TADHack-2015-winners.html
 [Oracle ACE Associate]: /blog/2015/The-Oracle-ACE-Associate-award.html
@@ -83,4 +58,10 @@ I've received some awards during my career:
 [Spark Structured Streaming]: https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
 [Google Dataflow]: https://cloud.google.com/dataflow
 [Azure Stream Analytics]: https://azure.microsoft.com/en-us/services/stream-analytics/
+[Flink]: https://flink.apache.org/
+[Apache Pulsar]: https://pulsar.apache.org/
 [Streaming Annotated Newsletter]: https://streamingannotated.substack.com/
+[RedHat Accelerator]: https://access.redhat.com/accelerators
+[Google Developer Expert]: https://developers.google.com/community/experts/directory/profile/profile-anton-maria-rodriguez-yuste
+[Java Champion]: https://twitter.com/Java_Champions/status/1541467821619953665
+[Confluent Community Catalyst]: https://www.confluent.io/nominate/
