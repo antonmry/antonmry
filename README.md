@@ -1,6 +1,6 @@
-I have a passion for building high-throughput streaming systems and platforms
-that solve the challenges that come with them. I have a strong sense of my goals 
-as Principal Software Engineer, summarized in
+As messaging protocols and distributed systems enthusiast, I'm all about optimizing performance and driving innovation. With extensive experience with the main cloud providers, containers and orchestration technologies like Kubernetes, I enjoy tackling modern data challenges and exploring new ways to scale solutions mission-critical applications. I'm always eager to learn new things and expand my skillset, which is why I'm currently exploring Rust as a new programming language. I'm also passionate about contributing to open-source projects that align with my expertise and career aspirations.
+
+I have a strong sense of my goals as Principal Software Engineer, summarized in
 [My Thoughts on the Principal Role] article.
 
 ## Tech Community
