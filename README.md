@@ -7,33 +7,10 @@ minimize environmental impact– and I thrive on collaborating with smart teams 
 those solutions to life. I'm particularly passionate about leveraging data to drive 
 positive impact in environmental sustainability.
 
-## Tech Community
-
-I know I've been very lucky so I try to contribute back sharing my learnings in
-[my blog], speaking at local and international [technology conferences] and
-organizing technology events, groups and other activities:
-
-- [VigoJUG] co-organizer of the Vigo Java User Group since 2017.
-- [CoruñaJUG] co-organizer of the Coruña Java User Group since 2018.
-- [LaretasGeek] is a virtual panel and podcast about technology with focus on
-  Java (discontinued).
-- [Streaming Annotated Newsletter]: the last news and interesting articles
-  about streaming platforms and processing frameworks each month in your
-  mailbox (discontinued).
-
-I've received some awards during my career:
-
-* 2022: [Java Champion].
-* 2021: [Google Developer Expert].
-* 2021: [RedHat Accelerator].
-* 2020: [Confluent Community Catalyst].
-* 2015: [TADHack Global Winner].
-* 2015: [Oracle ACE Associate].
-
 ## Social profile
 
 - Sharing open source side projects and ideas in [GitHub].
-- Tinkering with interactions on [Twitter].
+- Tinkering with interactions on [BlueSky].
 - My professional experience in [LinkedIn].
 - Sharping my coding skills on [Exercism].
 - Reading books on [Goodreads].
@@ -42,7 +19,7 @@ I've received some awards during my career:
 [VigoJUG]: https://www.vigojug.org
 [CoruñaJUG]: https://www.corunajug.org
 [LaretasGeek]: https://twitter.com/laretasGeek
-[Twitter]: https://www.twitter.com/antonmry
+[BlueSky]: https://bsky.app/profile/antonmry.bsky.social
 [Twitch]: https://www.twitch.com/antonmry
 [my blog]: https://www.galiglobal.com
 [Goodreads]: http://www.goodreads.com/antonmry
